@@ -1,0 +1,13 @@
+---
+name: La familia
+locale: es
+type: learning
+beta: false
+teacher_info: Guia para las primeras clases.
+language: prolog
+id_format: '%05d'
+order:
+- 1
+- 2
+- 3
+- 4

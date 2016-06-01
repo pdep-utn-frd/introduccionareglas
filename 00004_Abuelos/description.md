@@ -1,0 +1,1 @@
+Verificar que el abuelo de Robb y Sansa es Rick.
